@@ -1,0 +1,4 @@
+name,category,status,tags,purchasePrice,purchaseCurrency,purchaseDate,targetDailyCost,currentValuation,valuationCurrency,note,soldPrice,soldCurrency,soldDate
+iPhone 17,digital,inService,手机,7999,CNY,2026-01-15,10,,,日常主力,,,
+MacBook Pro,digital,inService,"电脑,工作",14999,CNY,2025-06-01,20,,,主力电脑,,,
+Air Jordan,collectible,retired,球鞋,1299,CNY,2024-03-20,,,,闲置待出,,,
